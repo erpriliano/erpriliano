@@ -2,8 +2,8 @@
 
 ## My Stats 📊
 <details>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Erpriliano's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erpriliano&show_icons=true&layout=compact&theme=react" height="192px" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Erpriliano's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=erpriliano&show_icons=true&theme=react" height="192px" /></a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Erpriliano's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erpriliano&show_icons=true&layout=compact&theme=react" height="192px" /></a>
 </details>
 
 
