@@ -1,8 +1,10 @@
 [![MasterBanner](https://raw.githubusercontent.com/erpriliano/erpriliano/main/header.png)](https://github.com/erpriliano)
 
 ## My Stats 📊
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Erpriliano's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erpriliano&show_icons=true&layout=compact&theme=react" height="192px" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Erpriliano's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=erpriliano&show_icons=true&theme=react" height="192px" /></a>                                                            
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Erpriliano's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erpriliano&show_icons=true&layout=compact&theme=react" height="192px" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Erpriliano's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=erpriliano&show_icons=true&theme=react" height="192px" /></a> 
+</p>
 
 ## GitHub Streak 🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erpriliano&theme=dark-smoky&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
