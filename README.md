@@ -37,6 +37,14 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+## Stats :chart_with_upwards_trend:
+### Personal Stats :crescent_moon:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erpriliano&theme=dark)](https://git.io/streak-stats)
+
+### Working Stats :sunny:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erprilianoAbbas&theme=dark)](https://git.io/streak-stats)
+
+
 <!--
 **erpriliano/erpriliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
